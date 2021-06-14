@@ -1,0 +1,8 @@
+{
+    "email":"name@example.com",
+    "user":"name",
+    "domain":"example.com",
+    "status":"invalid",
+    "reason":"No mail server for name@example.com",
+    "disposable":false
+ }
